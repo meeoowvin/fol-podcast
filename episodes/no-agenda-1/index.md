@@ -1,0 +1,17 @@
+---
+title: "Holy Spirit Baptism"
+subtitle: ""
+author: "Hari, Krushi and Vishal"
+content: "A no agenda episode where we talk about various things which are based on current affairs and contemporary stuff."
+description: "Baptism"
+audioUrl: "episode.mp3"
+audioType: "audio/mp3"
+duration: "4119"
+pubDate: "Tue, 27 Feb 2024 03:00:00 GMT"
+season: "1"
+episode: "4"
+order: "1"
+keywords: "tech,podcast,software,life,elonmusk,elon,musk,twitter,ethics,fraud,creditcard,credit,card,chargeback,movies,india,movie,indian,telugu,ginna,blackadam,shazam,superman,dc"
+episodeType: "full"
+restriction: ""
+---
