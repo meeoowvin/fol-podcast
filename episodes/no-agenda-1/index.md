@@ -4,7 +4,7 @@ subtitle: ""
 author: "Hari, Krushi and Vishal"
 content: "A no agenda episode where we talk about various things which are based on current affairs and contemporary stuff."
 description: "Baptism"
-audioUrl: 'Pacification.mp3'
+audioUrl: 'episode.mp3'
 audioType: "audio/mp3"
 duration: "4119"
 pubDate: "Tue, 27 Feb 2024 03:00:00 GMT"

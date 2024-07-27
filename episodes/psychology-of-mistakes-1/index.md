@@ -4,7 +4,7 @@ subtitle: 'A take on human psychology and our learnings through life by our very
 author: 'Hari, Krushi, and Vishal'
 content: 'Hari, Krushi and Vishal talk about human psychology, right vs wrong, judgement, social bias and life lessons'
 description: 'Hello mga Brooooos!'
-audioUrl: 'Pacification.mp3'
+audioUrl: 'episode.mp3'
 audioType: 'audio/mp3'
 duration: '3740'
 pubDate: 'Tue, 11 July 2024 05:00:00 GMT'

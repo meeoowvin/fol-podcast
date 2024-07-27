@@ -4,7 +4,7 @@ subtitle: ""
 author: "Hari, Krushi and Vishal"
 content: "Hari, Krushi and Vishal talk about mental health and other related stuff"
 description: "Discussion about mental health and other related stuff"
-audioUrl: 'Pacification.mp3'
+audioUrl: 'episode.mp3'
 audioType: "audio/mp3"
 duration: "3296"
 pubDate: "Wed, 14 Jul 2024 10:30:00 GMT"

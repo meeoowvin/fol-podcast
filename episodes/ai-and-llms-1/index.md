@@ -4,7 +4,7 @@ subtitle: 'A casual talk on AI and LLMs. How are they helpful and how are they g
 author: 'Hari, Krushi, Vishal and George'
 content: 'Hari, Krushi and Vishal with our guest George talk about AI and LLMs'
 description: 'test episode'
-audioUrl: 'Pacification.mp3'
+audioUrl: 'episode.mp3'
 audioType: 'audio/mp3'
 duration: '3665'
 pubDate: 'Tue, 9 July 2024 10:30:00 GMT'
