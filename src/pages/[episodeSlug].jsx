@@ -21,7 +21,7 @@ export default function Episode({ metadata, content, slug }) {
     () => ({
       title: metadata.title,
       audio: {
-        src: `https://media.githubusercontent.com/media/meeoowvin/fol-podcast/episodes/${slug}/${metadata.audioUrl}`,
+        src: `https://media.githubusercontent.com/media/meeoowvin/fol-podcast/master/episodes/${slug}/${metadata.audioUrl}`,
         type: metadata.audioType,
       },
       link: `/${slug}`,
