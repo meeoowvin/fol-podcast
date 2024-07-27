@@ -38,7 +38,7 @@ function EpisodeEntry({ episode: { metadata, slug, hasNotes } }) {
     () => ({
       title: metadata.title,
       audio: {
-        src: `https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/${slug}/${metadata.audioUrl}`,
+        src: `https://media.githubusercontent.com/media/meeoowvin/fol-podcast/episodes/${slug}/${metadata.audioUrl}`,
         type: metadata.audioType,
       },
       link: `/${slug}`,
