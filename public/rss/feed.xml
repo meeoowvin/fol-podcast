@@ -58,7 +58,7 @@
   
       <webMaster>mediocreminds.mm@gmail.com</webMaster>
   
-      <lastBuildDate>2024-07-27T14:21:20.475Z</lastBuildDate>
+      <lastBuildDate>2024-07-27T14:38:21.675Z</lastBuildDate>
   
       <generator>Mediocre Minds Podcast RSS Generator v1.0</generator>
   
@@ -83,8 +83,8 @@
   
         <content:encoded><![CDATA[<i>Hari, Krushi and Vishal with our guest George talk about AI and LLMs</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/ai-and-llms-1/episode.mp3" length="6349117" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/ai-and-llms-1/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/ai-and-llms-1/Pacification.mp3" length="6349117" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/ai-and-llms-1/Pacification.mp3"/>
   
         <itunes:duration>3665</itunes:duration>
   
@@ -97,7 +97,7 @@
         <media:description>test episode</media:description>
         <description>test episode</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/ai-and-llms-1/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/ai-and-llms-1/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/ai-and-llms-1</link>
   
@@ -133,8 +133,8 @@
   
         <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about code reviews and how one should learn from code reviews</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/code-reviews/episode.mp3" length="5110474" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/code-reviews/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/code-reviews/Pacification.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/code-reviews/Pacification.mp3"/>
   
         <itunes:duration>3481</itunes:duration>
   
@@ -147,7 +147,7 @@
         <media:description>Discussion about Baptism</media:description>
         <description>Discussion about Baptism</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/code-reviews/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/code-reviews/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/code-reviews</link>
   
@@ -183,8 +183,8 @@
   
         <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about mental health and other related stuff</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/mental-health/episode.mp3" length="5110474" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/mental-health/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/mental-health/Pacification.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/mental-health/Pacification.mp3"/>
   
         <itunes:duration>3296</itunes:duration>
   
@@ -197,7 +197,7 @@
         <media:description>Discussion about mental health and other related stuff</media:description>
         <description>Discussion about mental health and other related stuff</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/mental-health/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/mental-health/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/mental-health</link>
   
@@ -233,8 +233,8 @@
   
         <content:encoded><![CDATA[<i>A no agenda episode where we talk about various things which are based on current affairs and contemporary stuff.</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/no-agenda-1/episode.mp3" length="5110474" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/no-agenda-1/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/no-agenda-1/Pacification.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/no-agenda-1/Pacification.mp3"/>
   
         <itunes:duration>4119</itunes:duration>
   
@@ -247,7 +247,7 @@
         <media:description>Baptism</media:description>
         <description>Baptism</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/no-agenda-1/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/no-agenda-1/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/no-agenda-1</link>
   
@@ -283,8 +283,8 @@
   
         <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about human psychology, right vs wrong, judgement, social bias and life lessons</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/psychology-of-mistakes-1/episode.mp3" length="5110474" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/psychology-of-mistakes-1/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/psychology-of-mistakes-1/Pacification.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/psychology-of-mistakes-1/Pacification.mp3"/>
   
         <itunes:duration>3740</itunes:duration>
   
@@ -297,7 +297,7 @@
         <media:description>Hello mga Brooooos!</media:description>
         <description>Hello mga Brooooos!</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/psychology-of-mistakes-1/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/psychology-of-mistakes-1/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/psychology-of-mistakes-1</link>
   
@@ -333,8 +333,8 @@
   
         <content:encoded><![CDATA[<i>Three software engineers discuss about life of a software engineer and explain few things for non software guys.</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/software-life/episode.mp3" length="5110474" type="audio/mp3"/>
-        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/software-life/episode.mp3"/>
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/software-life/Pacification.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/software-life/Pacification.mp3"/>
   
         <itunes:duration>4499</itunes:duration>
   
@@ -347,7 +347,7 @@
         <media:description>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</media:description>
         <description>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/software-life/episode.mp3</guid>
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/software-life/Pacification.mp3</guid>
   
         <link>https://mediocreminds.vercel.app/software-life</link>
   
