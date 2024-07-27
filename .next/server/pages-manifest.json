@@ -1,9 +1,6 @@
 {
-  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/episodeCover": "pages/api/episodeCover.js",
-  "/[episodeSlug]": "pages/[episodeSlug].js",
-  "/": "pages/index.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }

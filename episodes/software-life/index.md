@@ -4,7 +4,7 @@ subtitle: ""
 author: "Durga Prasad, Krushi and Vishal"
 content: "Three software engineers discuss about life of a software engineer and explain few things for non software guys."
 description: "Software engineers discuss about life of a software engineer and explain few things for non dev guys."
-audioUrl: "episode.mp3"
+audioUrl: 'Pacification.mp3'
 audioType: "audio/mp3"
 duration: "4499"
 pubDate: "Wed, 20 Aug 2023 23:00:00 GMT"

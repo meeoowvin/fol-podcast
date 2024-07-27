@@ -118,7 +118,7 @@ const path = require('path')
           }" length="${
             fs.statSync(`${episodesDir}/${episode.slug}/episode.mp3`).size
           }" type="${episode.audioType}"/>
-        <media:content type="${episode.audioType}" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/${episode.slug}/${episode.audioUrl}"/>
+        <media:content type="${episode.audioType}" url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/${episode.slug}/${episode.audioUrl}"/>
   
         <itunes:duration>${episode.duration}</itunes:duration>
   
@@ -131,7 +131,7 @@ const path = require('path')
         <media:description>${episode.description}</media:description>
         <description>${episode.description}</description>
   
-        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/${episode.slug}/${
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/${episode.slug}/${
             episode.audioUrl
           }</guid>
   
