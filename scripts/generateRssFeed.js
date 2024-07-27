@@ -113,7 +113,7 @@ const path = require('path')
   
         <content:encoded><![CDATA[<i>${episode.content}</i>]]></content:encoded>
   
-        <enclosure url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/${episode.slug}/${
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/${episode.slug}/${
             episode.audioUrl
           }" length="${
             fs.statSync(`${episodesDir}/${episode.slug}/episode.mp3`).size

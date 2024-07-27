@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://video.search.yahoo.com/mrss"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dcterms="https://purl.org/dc/terms"
+     xmlns:spotify="https://www.spotify.com/ns/rss"
+     xmlns:psc="https://podlove.org/simple-chapters/">
+    <channel>
+
+      <title>Mediocre Minds - Podcast</title>
+      <itunes:title>Mediocre Minds - Podcast</itunes:title>
+      <itunes:subtitle>A bunch of people with &quot;Mediocre Minds&quot; talk about stuff not limiting to a genre or category but exploring and discussing numerous things.</itunes:subtitle>
+  
+      <googleplay:author>Mediocre Minds</googleplay:author>
+      <itunes:author>Mediocre Minds</itunes:author>
+      <author>Mediocre Minds</author>
+  
+      <googleplay:email>mediocreminds.mm@gmail.com</googleplay:email>
+      <itunes:owner>
+        <itunes:email>mediocreminds.mm@gmail.com</itunes:email>
+        <itunes:name>Mediocre Minds</itunes:name>
+      </itunes:owner>
+      <managingEditor>mediocreminds.mm@gmail.com</managingEditor>
+  
+      <googleplay:image href="https://mediocreminds.vercel.app/images/MMLogoBlackWhiteBG.png"/>
+      <itunes:image href="https://mediocreminds.vercel.app/images/MMLogoBlackWhiteBG.png"/>
+      <image href="https://mediocreminds.vercel.app/images/MMLogoBlackWhiteBG.png"/>
+  
+      <googleplay:description>A bunch of people with &quot;Mediocre Minds&quot; talk about stuff not limiting to a genre or category but exploring and discussing numerous things.</googleplay:description>
+      <itunes:summary>A bunch of people with &quot;Mediocre Minds&quot; talk about stuff not limiting to a genre or category but exploring and discussing numerous things.</itunes:summary>
+      <description>A bunch of people with &quot;Mediocre Minds&quot; talk about stuff not limiting to a genre or category but exploring and discussing numerous things.</description>
+  
+      <language>tel</language>
+  
+      <link>https://mediocreminds.vercel.app</link>
+  
+      <googleplay:explicit>No</googleplay:explicit>
+      <itunes:explicit>no</itunes:explicit>
+  
+      <category>Tech</category>
+	<googleplay:category text="Tech"/>
+	<itunes:category text="Tech"/>
+
+<category>Movies</category>
+	<googleplay:category text="Movies"/>
+	<itunes:category text="Movies"/>
+
+<category>Finance</category>
+	<googleplay:category text="Finance"/>
+	<itunes:category text="Finance"/>
+
+      
+      <itunes:type>episodic</itunes:type>
+  
+      <copyright>2022 Mediocre Minds</copyright>
+  
+      <webMaster>mediocreminds.mm@gmail.com</webMaster>
+  
+      <lastBuildDate>2024-07-27T14:21:20.475Z</lastBuildDate>
+  
+      <generator>Mediocre Minds Podcast RSS Generator v1.0</generator>
+  
+      <ttl>60</ttl>
+  
+      <itunes:complete>no</itunes:complete>
+  
+      <spotify:limit recentCount="10" />
+  
+      <spotify:countryOfOrigin>in us ca</spotify:countryOfOrigin>
+  
+      		<item>
+        <title>Teaser Episode</title>
+        <itunes:title>Teaser Episode</itunes:title>
+        <media:title>Teaser Episode</media:title>
+  
+        <itunes:subtitle>A casual talk on AI and LLMs. How are they helpful and how are they going to become a problem. What can possibly happen.</itunes:subtitle>
+  
+        <googleplay:author>Hari, Krushi, Vishal and George</googleplay:author>
+        <itunes:author>Hari, Krushi, Vishal and George</itunes:author>
+        <author>Hari, Krushi, Vishal and George</author>
+  
+        <content:encoded><![CDATA[<i>Hari, Krushi and Vishal with our guest George talk about AI and LLMs</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/ai-and-llms-1/episode.mp3" length="6349117" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/ai-and-llms-1/episode.mp3"/>
+  
+        <itunes:duration>3665</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Teaser%20Episode%22,%22episode%22:%225%22,%22authors%22:%22Hari,%20Krushi,%20Vishal%20and%20George%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Teaser%20Episode%22,%22episode%22:%225%22,%22authors%22:%22Hari,%20Krushi,%20Vishal%20and%20George%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Teaser%20Episode%22,%22episode%22:%225%22,%22authors%22:%22Hari,%20Krushi,%20Vishal%20and%20George%22%7D"/>
+  
+        <googleplay:description>test episode</googleplay:description>
+        <itunes:summary>test episode</itunes:summary>
+        <media:description>test episode</media:description>
+        <description>test episode</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/ai-and-llms-1/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/ai-and-llms-1</link>
+  
+        <pubDate>Tue, 9 July 2024 10:30:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>5</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>tech, code, ai, llms, uses, dangers, ai governance, ai capabilities, pros and cons, jobs, future</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+		<item>
+        <title>Water Baptism</title>
+        <itunes:title>Water Baptism</itunes:title>
+        <media:title>Water Baptism</media:title>
+  
+        <itunes:subtitle></itunes:subtitle>
+  
+        <googleplay:author>Hari, Krushi and Vishal</googleplay:author>
+        <itunes:author>Hari, Krushi and Vishal</itunes:author>
+        <author>Hari, Krushi and Vishal</author>
+  
+        <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about code reviews and how one should learn from code reviews</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/code-reviews/episode.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/code-reviews/episode.mp3"/>
+  
+        <itunes:duration>3481</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Water%20Baptism%22,%22episode%22:%223%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Water%20Baptism%22,%22episode%22:%223%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Water%20Baptism%22,%22episode%22:%223%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+  
+        <googleplay:description>Discussion about Baptism</googleplay:description>
+        <itunes:summary>Discussion about Baptism</itunes:summary>
+        <media:description>Discussion about Baptism</media:description>
+        <description>Discussion about Baptism</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/code-reviews/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/code-reviews</link>
+  
+        <pubDate>Wed, 10 March 2024 10:30:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>3</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>tech, code, code reviews, git, pull requests, guide, work, software, development</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+		<item>
+        <title>Mental Health</title>
+        <itunes:title>Mental Health</itunes:title>
+        <media:title>Mental Health</media:title>
+  
+        <itunes:subtitle></itunes:subtitle>
+  
+        <googleplay:author>Hari, Krushi and Vishal</googleplay:author>
+        <itunes:author>Hari, Krushi and Vishal</itunes:author>
+        <author>Hari, Krushi and Vishal</author>
+  
+        <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about mental health and other related stuff</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/mental-health/episode.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/mental-health/episode.mp3"/>
+  
+        <itunes:duration>3296</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Mental%20Health%22,%22episode%22:%222%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Mental%20Health%22,%22episode%22:%222%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Mental%20Health%22,%22episode%22:%222%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+  
+        <googleplay:description>Discussion about mental health and other related stuff</googleplay:description>
+        <itunes:summary>Discussion about mental health and other related stuff</itunes:summary>
+        <media:description>Discussion about mental health and other related stuff</media:description>
+        <description>Discussion about mental health and other related stuff</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/mental-health/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/mental-health</link>
+  
+        <pubDate>Wed, 14 Jul 2024 10:30:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>2</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>psychology,mental health,health,issues,anxiety,therapy,friends,family,disorder</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+		<item>
+        <title>Holy Spirit Baptism</title>
+        <itunes:title>Holy Spirit Baptism</itunes:title>
+        <media:title>Holy Spirit Baptism</media:title>
+  
+        <itunes:subtitle></itunes:subtitle>
+  
+        <googleplay:author>Hari, Krushi and Vishal</googleplay:author>
+        <itunes:author>Hari, Krushi and Vishal</itunes:author>
+        <author>Hari, Krushi and Vishal</author>
+  
+        <content:encoded><![CDATA[<i>A no agenda episode where we talk about various things which are based on current affairs and contemporary stuff.</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/no-agenda-1/episode.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/no-agenda-1/episode.mp3"/>
+  
+        <itunes:duration>4119</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Holy%20Spirit%20Baptism%22,%22episode%22:%224%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Holy%20Spirit%20Baptism%22,%22episode%22:%224%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Holy%20Spirit%20Baptism%22,%22episode%22:%224%22,%22authors%22:%22Hari,%20Krushi%20and%20Vishal%22%7D"/>
+  
+        <googleplay:description>Baptism</googleplay:description>
+        <itunes:summary>Baptism</itunes:summary>
+        <media:description>Baptism</media:description>
+        <description>Baptism</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/no-agenda-1/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/no-agenda-1</link>
+  
+        <pubDate>Tue, 27 Feb 2024 03:00:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>4</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>tech,podcast,software,life,elonmusk,elon,musk,twitter,ethics,fraud,creditcard,credit,card,chargeback,movies,india,movie,indian,telugu,ginna,blackadam,shazam,superman,dc</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+		<item>
+        <title>Psychology of Mistakes</title>
+        <itunes:title>Psychology of Mistakes</itunes:title>
+        <media:title>Psychology of Mistakes</media:title>
+  
+        <itunes:subtitle>A take on human psychology and our learnings through life by our very own - Vishal, Krushi and Hari</itunes:subtitle>
+  
+        <googleplay:author>Hari, Krushi, and Vishal</googleplay:author>
+        <itunes:author>Hari, Krushi, and Vishal</itunes:author>
+        <author>Hari, Krushi, and Vishal</author>
+  
+        <content:encoded><![CDATA[<i>Hari, Krushi and Vishal talk about human psychology, right vs wrong, judgement, social bias and life lessons</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/psychology-of-mistakes-1/episode.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/psychology-of-mistakes-1/episode.mp3"/>
+  
+        <itunes:duration>3740</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Psychology%20of%20Mistakes%22,%22episode%22:%226%22,%22authors%22:%22Hari,%20Krushi,%20and%20Vishal%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Psychology%20of%20Mistakes%22,%22episode%22:%226%22,%22authors%22:%22Hari,%20Krushi,%20and%20Vishal%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Psychology%20of%20Mistakes%22,%22episode%22:%226%22,%22authors%22:%22Hari,%20Krushi,%20and%20Vishal%22%7D"/>
+  
+        <googleplay:description>Hello mga Brooooos!</googleplay:description>
+        <itunes:summary>Hello mga Brooooos!</itunes:summary>
+        <media:description>Hello mga Brooooos!</media:description>
+        <description>Hello mga Brooooos!</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/psychology-of-mistakes-1/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/psychology-of-mistakes-1</link>
+  
+        <pubDate>Tue, 11 July 2024 05:00:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>6</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>life, journey, psychology, humans, right, wrong, social bias, judgement, baggage, polarized, society</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+		<item>
+        <title>Life of a Software Developer</title>
+        <itunes:title>Life of a Software Developer</itunes:title>
+        <media:title>Life of a Software Developer</media:title>
+  
+        <itunes:subtitle></itunes:subtitle>
+  
+        <googleplay:author>Durga Prasad, Krushi and Vishal</googleplay:author>
+        <itunes:author>Durga Prasad, Krushi and Vishal</itunes:author>
+        <author>Durga Prasad, Krushi and Vishal</author>
+  
+        <content:encoded><![CDATA[<i>Three software engineers discuss about life of a software engineer and explain few things for non software guys.</i>]]></content:encoded>
+  
+        <enclosure url="https://media.githubusercontent.com/media/meeoowvin/fol-podcast/main/episodes/software-life/episode.mp3" length="5110474" type="audio/mp3"/>
+        <media:content type="audio/mp3" url="https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/software-life/episode.mp3"/>
+  
+        <itunes:duration>4499</itunes:duration>
+  
+        <googleplay:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Life%20of%20a%20Software%20Developer%22,%22episode%22:%221%22,%22authors%22:%22Durga%20Prasad,%20Krushi%20and%20Vishal%22%7D"/>
+        <itunes:image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Life%20of%20a%20Software%20Developer%22,%22episode%22:%221%22,%22authors%22:%22Durga%20Prasad,%20Krushi%20and%20Vishal%22%7D"/>
+        <image href="https://mediocreminds.vercel.app/api/episodeCover?data=%7B%22title%22:%22Life%20of%20a%20Software%20Developer%22,%22episode%22:%221%22,%22authors%22:%22Durga%20Prasad,%20Krushi%20and%20Vishal%22%7D"/>
+  
+        <googleplay:description>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</googleplay:description>
+        <itunes:summary>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</itunes:summary>
+        <media:description>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</media:description>
+        <description>Software engineers discuss about life of a software engineer and explain few things for non dev guys.</description>
+  
+        <guid isPermaLink="true">https://media.githubusercontent.com/media/mediocreminds/podcast/main/episodes/software-life/episode.mp3</guid>
+  
+        <link>https://mediocreminds.vercel.app/software-life</link>
+  
+        <pubDate>Wed, 20 Aug 2023 23:00:00 GMT</pubDate>
+  
+        <googleplay:explicit>No</googleplay:explicit>
+        <itunes:explicit>no</itunes:explicit>
+  
+        <itunes:order>1</itunes:order>
+        <itunes:episode>1</itunes:episode>
+        <itunes:season>1</itunes:season>
+  
+        <googleplay:block>no</googleplay:block>
+        <itunes:block>no</itunes:block>
+  
+        <comments>https://mediocreminds.vercel.app</comments>
+  
+        <source url="https://mediocreminds.vercel.app/rss/feed.xml">Mediocre Minds - Podcast</source>
+        
+        <itunes:keywords>tech,podcast,software,life</itunes:keywords>
+        <itunes:episodeType>full</itunes:episodeType>
+      </item>
+    </channel>
+  </rss>
